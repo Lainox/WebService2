@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Document</title>
-	<script type="text/javascript" src="jquery-1.11.3.js"></script>
+	<script type="text/javascript" src="js/jquery-1.11.3.js"></script>
 	<script type="text/javascript">
 	$(document).ready(function(){
 		$("#boton").click(function(){

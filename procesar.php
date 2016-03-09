@@ -1,6 +1,6 @@
 <?php 
 
- include('functiones.php');
+ include('funciones/functiones.php');
 
  if(!empty($_POST['libro']))
  {
